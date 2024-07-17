@@ -10,8 +10,7 @@ outline: none;
 
 img {
 
-
-    width: 30vw;
+    width: 20vw;
 }
 
 body {
@@ -83,6 +82,22 @@ button:active {
 
 opacity: 0.8;
 
+}
+
+
+@media (max-width: 720px) {
+
+    img{
+
+width: 60vw;
+    } 
+
+    .responsivo {
+
+        margin-left: 62px;
+
+    }
+    
 }
 
 
