@@ -12,5 +12,5 @@
 <div align="center">
   
   <p>Clique no Sorteador para acessar o Deploy:</p>
-<a href="https://sorteadorzc.netlify.app/" target="_blank"><img width= "100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVoGhYc2wbmZocZ1_-E5BmsxFASljGqheV1w&s"></a>
+<a href="https://sortearzucchi.netlify.app/" target="_blank"><img width= "100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVoGhYc2wbmZocZ1_-E5BmsxFASljGqheV1w&s"></a>
 </div>
